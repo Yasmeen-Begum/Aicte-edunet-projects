@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.kiro/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Project specific
+chroma_db/
+outputs/
+models/
+*.gguf
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Environment variables
+.env
+.env.local
+
+# Test files
+test_*.py
+*_test.py
+
+# Build
+build/
+dist/

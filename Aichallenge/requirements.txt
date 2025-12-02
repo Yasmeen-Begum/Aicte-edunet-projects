@@ -1,0 +1,13 @@
+langchain
+chromadb
+gradio
+crewai
+sentence-transformers
+PyPDF2
+python-docx
+transformers
+torch
+
+reportlab
+Pillow
+pytesseract
